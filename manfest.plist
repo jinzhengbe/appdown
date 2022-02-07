@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.*****EN.****</string>
+				<string>com.basetest.www</string>
 				<key>bundle-version</key>
 				<string>0.1</string>
-				<key>kind</key>
+				<key>base</key>
 				<string>software</string>
 				<key>title</key>
-				<string>应用名称</string>
+				<string>base</string>
 			</dict>
 		</dict>
 	</array>
